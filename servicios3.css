@@ -1,0 +1,15 @@
+.servicios {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.tipo_servicios {
+    width: 300px;
+    margin: 50px;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}

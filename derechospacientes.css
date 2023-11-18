@@ -1,0 +1,27 @@
+.responsabilidad_paciente h2 {
+    text-align: center;
+}
+
+.derecho_paciente img {
+    float: left;
+    margin-right: 10px;
+    width: 500px;
+}
+
+.derecho_paciente ol {
+    float: right;
+}
+
+.responsabilidad_paciente img {
+    float: left;
+    margin-right: 10px;
+    width: 500px;
+}
+
+.responsabilidad_paciente ol {
+    float: right;
+}
+
+.responsabilidad_paciente h2{
+    text-align: center;
+}
